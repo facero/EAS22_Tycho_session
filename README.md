@@ -25,7 +25,7 @@ In the last decades, the current generation of ground and space based telescopes
 <br />    
 
  -  Particle acceleration at supernova remnants: where we stand and where we go, Pierre Cristofari [pdf](talks/Cristofari_EAS22.pdf)
- -  Status of the CTAO and its view on particle acceleration in SNRs, Roberta Zanin [pdf](talks/Zanin_EAS22.pdf)
+ -  Status of the CTAO and its view on particle acceleration in SNRs, Roberta Zanin
  -  The supernova remnant SN 1006 as a Galactic particle accelerator, Roberta Giuffrida [pdf](talks/Giuffrida_EAS22.pdf)
  -  New cosmic-ray acceleration sites within supernova remnants detected by the Fermi-LAT, Marianne Lemoine-goumard [pdf](talks/Lemoine_EAS22.pdf)
  -  Gamma rays from the remnant of Kepler's SN, Dmitry Prokhorov [pdf](talks/Prokhorov_EAS22.pdf)
